@@ -7,14 +7,14 @@
 
 This is **Riddhi Bhanushali**, a <b>pre-final year</b> undergraduate from <b>Ramrao Adik Institute of Technology</b>.<br>
 A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>ML Enthusiast</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp;<br>
-I’m currently learning **ReactJS** & **NextJS**<br>
-I’m looking to collaborate with any **Open-Source contributions**<br>
-I love to write code on [LeetCode](https://leetcode.com/u/riffhi/) <br>
-I also love to design!<br>
-I play the piano sometimes to relax and unwind<br>
-Fun fact: *I can spend hours stargazing and lose track of time!*<br><br>
+✨I’m currently learning **ReactJS** & **NextJS**<br>
+✨I’m looking to collaborate with any **Open-Source contributions**<br>
+✨I love to write code on [LeetCode](https://leetcode.com/u/riffhi/) <br>
+✨I also love to design!<br>
+✨I play the piano sometimes to relax and unwind<br>
+✨Fun fact: *I can spend hours stargazing and lose track of time!*<br><br>
 
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+- 📫 Reach out to me at: bhanushaliriddhi2205@gmail.com </a>
 
 <!--Languages and Tools Section-->       
 <h2 align="left">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
