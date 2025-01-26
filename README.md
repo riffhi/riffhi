@@ -36,23 +36,12 @@
 ✔ Fun fact : *I can spend hours stargazing and lose track of time!*<br><br><br><br>
  
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+<!--Languages and Tools Section-->       
+<h2 align="left">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="left">
-  
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg"></code>
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"></code>
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/tensorflow-icon.svg"></code>
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"></code>
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/alteryx-logo.svg"></code>
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/xampp-logo.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"></code>
+<img width="500px" src="https://skillicons.dev/icons?i=py,java,postgres,mysql,tensorflow,github,pandas,matplotlib,alteryx,html,css,js,jupyter&perline=10" />
+</p>
+<br />
 
   <hr>
   <p align="center">
