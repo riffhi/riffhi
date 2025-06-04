@@ -6,7 +6,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 This is **Riddhi Bhanushali**, a <b>final year</b> undergraduate from <b>Ramrao Adik Institute of Technology</b>.<br>
-A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>ML Enthusiast</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp;<br>
+A budding <b>AI/ML Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp;<br>
 📘I’m currently learning **ReactJS** & **NextJS**<br>
 🌐I’m looking to collaborate with any **Open-Source contributions**<br>
 🚀I love to write code on [LeetCode](https://leetcode.com/u/riffhi/) <br>
