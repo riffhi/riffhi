@@ -20,46 +20,47 @@ A budding <b>AI/ML Developer</b> <img src="https://github.com/TheDudeThatCode/Th
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Technologies & Tools***
 
 <p align="left">
-  <span style="background: white; padding: 6px; border-radius: 10px;">
+  <span style="background: white; padding: 6px; border-radius: 10px; display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
   </span>&nbsp;
-  <span style="background: white; padding: 6px; border-radius: 10px;">
+  <span style="background: white; padding: 6px; border-radius: 10px; display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
   </span>&nbsp;
-  <span style="background: white; padding: 6px; border-radius: 10px;">
+  <span style="background: white; padding: 6px; border-radius: 10px; display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
   </span>&nbsp;
-  <span style="background: white; padding: 6px; border-radius: 10px;">
+  <span style="background: white; padding: 6px; border-radius: 10px; display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
   </span>&nbsp;
-  <span style="background: white; padding: 6px; border-radius: 10px;">
+  <span style="background: white; padding: 6px; border-radius: 10px; display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow" />
   </span>&nbsp;
-  <span style="background: white; padding: 6px; border-radius: 10px;">
+  <span style="background: white; padding: 6px; border-radius: 10px; display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
   </span>&nbsp;
-  <span style="background: white; padding: 6px; border-radius: 10px;">
+  <span style="background: white; padding: 6px; border-radius: 10px; display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" />
   </span>&nbsp;
-  <span style="background: white; padding: 6px; border-radius: 10px;">
+  <span style="background: white; padding: 6px; border-radius: 10px; display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" alt="Matplotlib" />
   </span>&nbsp;
-  <span style="background: white; padding: 6px; border-radius: 10px;">
+  <span style="background: white; padding: 6px; border-radius: 10px; display: inline-block;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Alteryx_Logo.png" width="40" alt="Alteryx" />
   </span>&nbsp;
-  <span style="background: white; padding: 6px; border-radius: 10px;">
+  <span style="background: white; padding: 6px; border-radius: 10px; display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
   </span>&nbsp;
-  <span style="background: white; padding: 6px; border-radius: 10px;">
+  <span style="background: white; padding: 6px; border-radius: 10px; display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
   </span>&nbsp;
-  <span style="background: white; padding: 6px; border-radius: 10px;">
+  <span style="background: white; padding: 6px; border-radius: 10px; display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
   </span>&nbsp;
-  <span style="background: white; padding: 6px; border-radius: 10px;">
+  <span style="background: white; padding: 6px; border-radius: 10px; display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter" />
   </span>
 </p>
+
 
 
 
