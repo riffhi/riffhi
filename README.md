@@ -14,7 +14,12 @@ A budding <b>AI/ML Developer</b> <img src="https://github.com/TheDudeThatCode/Th
 🎹I play the piano sometimes to relax and unwind<br>
 🪐Fun fact: *I can spend hours stargazing and lose track of time!*<br><br>
 
-- 📫 Reach out to me at: bhanushaliriddhi2205@gmail.com </a>
+- 📫 Reach out to me at: bhanushaliriddhiwork@gmail.com </a>
+<!-- visitors count !-->
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/riffhi/count.svg" />
+</p>
 
 <!--Languages and Tools Section-->       
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Technologies & Tools***
