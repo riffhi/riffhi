@@ -25,6 +25,9 @@ A budding <b>AI/ML Developer</b> <img src="https://github.com/TheDudeThatCode/Th
 
   <hr>
   <p align="center">
- 
+ <p align="center">
+  <a href="https://github.com/riffhi"><img src="https://github-readme-stats.vercel.app/api?username=riffhi&hide_border=true&show_icons=true" alt="riffhi's github stats"></a>
+</p>
+
 
 <hr>
