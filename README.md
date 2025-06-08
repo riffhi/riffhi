@@ -64,7 +64,7 @@ A budding <b>AI/ML Developer</b> <img src="https://github.com/TheDudeThatCode/Th
  <!--stats-!-->       
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Github Stats***
 
- <p align="center">
+ <p align="left">
   <a href="https://github.com/riffhi"><img src="https://github-readme-stats.vercel.app/api?username=riffhi&hide_border=true&show_icons=true" alt="riffhi's github stats"></a>
 </p>
 
