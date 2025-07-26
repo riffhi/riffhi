@@ -16,7 +16,7 @@ A budding <b>AI/ML Developer</b> <img src="https://github.com/TheDudeThatCode/Th
 
 - 📫 Reach out to me at: bhanushaliriddhiwork@gmail.com </a>
 <!-- visitors count !-->
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Visitors count***
+![](https://komarev.com/ghpvc/?username=abrxrk)***Visitors count***
 <p align="left"> 
 
   <img src="https://profile-counter.glitch.me/riffhi/count.svg" />
