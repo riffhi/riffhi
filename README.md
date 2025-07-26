@@ -16,11 +16,8 @@ A budding <b>AI/ML Developer</b> <img src="https://github.com/TheDudeThatCode/Th
 
 - 📫 Reach out to me at: bhanushaliriddhiwork@gmail.com </a>
 <!-- visitors count !-->
-![](https://komarev.com/ghpvc/?username=abrxrk)***Visitors count***
-<p align="left"> 
+![](https://komarev.com/ghpvc/?username=riffhi)***Visitors count***
 
-  <img src="https://profile-counter.glitch.me/riffhi/count.svg" />
-</p>
 
 <!--Languages and Tools Section-->       
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Technologies & Tools***
